@@ -2,3 +2,10 @@
     font-size: 20px;
     color: black;
 }
+.col-lg-8{
+    text-align: center;
+    justify-content: center;
+}
+.col-lg-8 h1{
+    justify-content: center;
+}

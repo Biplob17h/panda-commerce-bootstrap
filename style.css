@@ -9,3 +9,12 @@
 .col-lg-8 h1{
     justify-content: center;
 }
+.panda-bg-info{
+    background-color: #fceae8 !important;
+}
+.categories img{
+    width: 100px;
+}
+.panda-btn-buy-now{
+    background-color: #ff3f8b ;
+}
